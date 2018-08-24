@@ -1,1 +1,1 @@
-# Social-Networking-Website
+# College Registration Portal
